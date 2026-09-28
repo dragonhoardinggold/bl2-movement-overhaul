@@ -159,4 +159,5 @@ if ($conflicts) {
 
 Say ''
 Say 'Done! Start the game - Movement Overhaul is under Mods.' 'Green'
-Say 'Dash is on Left Alt by default: Mods > Movement Overhaul > Keybinds to change it.'
+Say 'Dash is on Left Shift by default: Mods > Movement Overhaul > Keybinds to change it.'
+Say 'Left Shift is also the game''s default Sprint key - rebind Sprint in the game''s options if they clash.'

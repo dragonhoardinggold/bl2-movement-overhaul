@@ -126,7 +126,7 @@ def post_render(_obj: unreal.UObject, args: unreal.WrappedStruct, _ret: Any, _fu
 
 @keybind(
     "Dash",
-    "LeftAlt",
+    "LeftShift",
     description="Dash the way you're moving. Works on the ground and in the air, and costs a stamina charge.",
 )
 def dash() -> None:

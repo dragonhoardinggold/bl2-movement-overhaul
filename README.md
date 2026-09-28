@@ -38,7 +38,9 @@ The installer finds your game (Steam, any Steam library, or Epic), checks the mo
 2. Put it in `Borderlands 2\sdk_mods\`.
 3. Start the game and turn **Movement Overhaul** on under **Mods**.
 
-Either way: **Dash is on Left Alt** by default. Change it under *Mods > Movement Overhaul > Keybinds*.
+Either way: **Dash is on Left Shift** by default. Change it under *Mods > Movement Overhaul > Keybinds*.
+
+Left Shift is also Borderlands 2's default Sprint key. With *Toggle sprint* on (the default) you start sprinting automatically and rarely need that key, but for the cleanest feel rebind Sprint in the game's own key bindings to something else.
 
 ## Update and uninstall
 

@@ -14,7 +14,7 @@ Fluid movement for Borderlands 2.
 1. Install the [Willow2 Mod Manager (Python SDK)](https://github.com/bl-sdk/willow2-mod-manager) v3.8 or newer.
 2. Put `movement_overhaul.sdkmod` in `Borderlands 2/sdk_mods/`.
 3. Start the game and turn the mod on under **Mods**.
-4. Dash is on **Left Alt** by default - rebind it under *Mods > Movement Overhaul > Keybinds*.
+4. Dash is on **Left Shift** by default - rebind it under *Mods > Movement Overhaul > Keybinds*. Left Shift is also Borderlands 2's default Sprint key. With *Toggle sprint* on (the default) you start sprinting automatically and rarely need that key, but for the cleanest feel rebind Sprint in the game's own key bindings to something else.
 
 If you had the separate **Sliding** mod, turn it off - this includes it, and running both doubles every slide. The same goes for the older standalone Autorun, Slide Tuning, Stamina, Air Control, Mantle, Sprint Combat and Movement Audio mods.
 
