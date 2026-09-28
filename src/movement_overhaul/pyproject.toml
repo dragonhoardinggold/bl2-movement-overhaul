@@ -1,0 +1,21 @@
+[project]
+name = "movement_overhaul"
+version = "1.2.0"
+authors = [{ name = "dragonhoardinggold" }]
+description = """\
+*Fluid movement for Borderlands 2.*
+Toggle sprint in any direction, sprint while shooting, slides you can steer \
+and chain, a stamina-based dash and double jump, air control that keeps your \
+momentum, and climbing over ledges. Everything is tunable under Options.
+Replaces the separate Sliding mod - turn that one off.
+"""
+dependencies = [
+    "networking >= 1.0",
+]
+
+[tool.sdkmod]
+name = "Movement Overhaul"
+version = "1.2"
+supported_games = ["BL2"]
+coop_support = "RequiresAllPlayers"
+license = { name = "MIT", url = "https://choosealicense.com/licenses/mit/" }
