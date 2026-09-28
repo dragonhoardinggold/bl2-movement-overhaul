@@ -11,7 +11,7 @@ Fluid movement for Borderlands 2.
 
 ## Install
 
-1. Install the [Willow2 Mod Manager (Python SDK)](https://github.com/bl-sdk/willow2-mod-manager) v3.x.
+1. Install the [Willow2 Mod Manager (Python SDK)](https://github.com/bl-sdk/willow2-mod-manager) v3.8 or newer.
 2. Put `movement_overhaul.sdkmod` in `Borderlands 2/sdk_mods/`.
 3. Start the game and turn the mod on under **Mods**.
 4. Dash is on **Left Alt** by default - rebind it under *Mods > Movement Overhaul > Keybinds*.
@@ -20,7 +20,11 @@ If you had the separate **Sliding** mod, turn it off - this includes it, and run
 
 ## Co-op
 
-Everyone in the game needs the mod enabled. Slides are simulated by the host, using each player's own slide settings.
+Untested so far. Everyone in the game needs the mod enabled, and slides are simulated by the host.
+
+## Controllers
+
+*Hold jump* mantling and *Slide on landing* read the keyboard directly, so they probably don't work on a gamepad - set *Mantle* to *Automatic* on a controller.
 
 ## Your own sounds
 

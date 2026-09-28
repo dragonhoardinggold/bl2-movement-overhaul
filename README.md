@@ -20,7 +20,7 @@ Fluid, modern movement for Borderlands 2: toggle sprint, slides you can steer an
 ## Requirements
 
 - Borderlands 2 on PC (Steam or Epic).
-- The [Willow2 Mod Manager (Python SDK)](https://github.com/bl-sdk/willow2-mod-manager/releases/latest) v3.x. Install it and start the game once before installing this mod.
+- The [Willow2 Mod Manager (Python SDK)](https://github.com/bl-sdk/willow2-mod-manager/releases/latest) **v3.8 or newer**. Install it and start the game once before installing this mod.
 
 ## Install
 
@@ -48,9 +48,14 @@ Either way: **Dash is on Left Alt** by default. Change it under *Mods > Movement
 ## Things to know
 
 - **Using juso's Sliding mod?** Turn it off - Movement Overhaul includes it, and running both doubles every slide.
-- **Co-op:** everyone in the game needs the mod enabled. Slides are run by the host.
 - **Sounds** play through Windows rather than the game's audio engine, so the in-game volume sliders don't affect them. Use the volume sliders in the mod's Sounds options.
 - **Your own sounds:** drop 16-bit PCM `.wav` files into `sdk_mods\movement_overhaul_sounds\<slide|dash|air_jump|mantle>\` and restart the game. They show up in the Sounds options, and updates never touch that folder.
+
+## Known issues
+
+- **Co-op is untested.** Everyone in the game needs the mod enabled, and slides are run by the host. Please report how it goes.
+- **Controllers:** *Hold jump* mantling and *Slide on landing* read the keyboard directly, so they probably don't work on a gamepad. Set *Mantle* to *Automatic* if you play on a controller. Everything else uses the game's own inputs.
+- Tested on the Steam version of Borderlands 2 with mod manager v3.8. The Epic version should work the same, but hasn't been tried.
 
 ## Reporting a bug
 

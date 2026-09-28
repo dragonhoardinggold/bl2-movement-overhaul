@@ -420,9 +420,6 @@ def player_move(
 
 # (registered by Movement Overhaul)
 
-# Printed at import, before the mod is enabled. Tells a "nothing happened" report
-# apart from a mod that never loaded at all.
-logging.info("[air_control] loaded - enable it in the mod menu to arm the hook")
 
 
 # --- options: read from Movement Overhaul's menu --------------------------

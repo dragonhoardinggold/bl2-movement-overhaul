@@ -3,6 +3,8 @@
 ## 1.2.0
 
 - Dash momentum now carries into a slide. Landing into a slide from an air dash, or crouching out of a ground dash, opens the slide at your current speed instead of slowing you down.
+- Credits juso's Sliding in the in-game mod description.
+- Removed leftover log messages from the separate mods the pack was built from.
 
 ## 1.1.0
 

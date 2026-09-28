@@ -1822,9 +1822,6 @@ def on_disable() -> None:
 
 # (network functions registered by Movement Overhaul)
 
-# Printed at import, before the mod is enabled. Tells a "nothing happened" report
-# apart from a mod that never loaded at all.
-logging.info("[stamina] loaded - enable it in the mod menu and bind Dash")
 
 
 # --- options: read from Movement Overhaul's menu --------------------------

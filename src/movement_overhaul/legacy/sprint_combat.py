@@ -591,7 +591,6 @@ def on_disable() -> None:
     State.was_aiming = False
 
 
-logging.info("[sprint_combat] loaded")
 
 # (registered by Movement Overhaul)
 

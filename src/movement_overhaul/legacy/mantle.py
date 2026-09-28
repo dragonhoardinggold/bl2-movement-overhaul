@@ -652,7 +652,6 @@ def on_disable() -> None:
     State.last_xy = None
 
 
-logging.info("[mantle] loaded")
 
 # (registered by Movement Overhaul)
 
