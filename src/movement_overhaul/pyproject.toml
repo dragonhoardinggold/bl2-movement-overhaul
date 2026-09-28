@@ -7,7 +7,7 @@ description = """\
 Toggle sprint in any direction, sprint while shooting, slides you can steer \
 and chain, a stamina-based dash and double jump, air control that keeps your \
 momentum, and climbing over ledges. Everything is tunable under Options.
-Replaces the separate Sliding mod - turn that one off.
+Slides are juso's Sliding mod (MIT license), tuned. Turn the separate Sliding mod off.
 """
 dependencies = [
     "networking >= 1.0",

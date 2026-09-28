@@ -70,8 +70,11 @@ It writes `dist/movement_overhaul.sdkmod`. The sound effects are generated from 
 
 ## Credits
 
-- Sliding is [juso](https://github.com/juso40/bl2sdk-mods)'s **Sliding**, included with his uemath, tweens and coroutines libraries under the MIT license.
-- Everything else by dragonhoardinggold.
+- **Sliding by [juso](https://github.com/juso40).** The slide in this mod is juso's [Sliding](https://github.com/juso40/bl2sdk-mods/tree/main/sliding) mod, included with his [uemath](https://github.com/juso40/bl2sdk-mods/tree/main/uemath), [tweens](https://github.com/juso40/bl2sdk-mods/tree/main/tweens) and [coroutines](https://github.com/juso40/bl2sdk-mods/tree/main/coroutines) libraries under the MIT license. Sliding's movement code is unchanged, and the libraries only have small packaging fixes (for example tweens no longer pauses with the game, which could crash on quit). Movement Overhaul adds the speed and distance tuning, fast finish, slide chaining and dash momentum on top. Full license text in [LICENSE](LICENSE). Thanks juso!
+- **[Willow2 Mod Manager](https://github.com/bl-sdk/willow2-mod-manager)** by the bl-sdk team, which this mod runs on.
+- Everything else, including the sound effects, by dragonhoardinggold.
+
+Borderlands 2 is a trademark of Gearbox Software. This is an unofficial fan mod, not affiliated with or endorsed by Gearbox or 2K.
 
 ## License
 

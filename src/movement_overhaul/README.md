@@ -30,4 +30,4 @@ The sounds play through Windows rather than the game's audio engine, so the in-g
 
 ## Credits
 
-Sliding is juso's [Sliding](https://github.com/juso40/bl2sdk-mods), included with his uemath, tweens and coroutines libraries under the MIT license. See `LICENSE`.
+The slide is built on **[Sliding](https://github.com/juso40/bl2sdk-mods/tree/main/sliding) by juso**, included with his [uemath](https://github.com/juso40/bl2sdk-mods/tree/main/uemath), [tweens](https://github.com/juso40/bl2sdk-mods/tree/main/tweens) and [coroutines](https://github.com/juso40/bl2sdk-mods/tree/main/coroutines) libraries under the MIT license (see `LICENSE`). Movement Overhaul adds slide tuning on top of it. Thanks juso!
