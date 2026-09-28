@@ -2,6 +2,10 @@
 
 Fluid, modern movement for Borderlands 2: toggle sprint, slides you can steer and chain, a stamina dash, double jump, air control that keeps your momentum, and climbing over ledges. One mod, everything tunable in the Mods menu.
 
+
+https://github.com/user-attachments/assets/9b60b51e-ef16-419f-841e-539a92ecff8a
+
+
 ![Stamina bar styles](docs/stamina_bar_styles.png)
 
 ## Features
